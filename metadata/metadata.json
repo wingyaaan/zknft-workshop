@@ -1,0 +1,15 @@
+{
+  "name": "alvin_collection",
+  "image": "https://img.freepik.com/free-photo/fearless-chinese-warrior-stood-tall-adorned-heavy-armor-ready-battle-generative-ai_8829-2917.jpg",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "armor"
+    }
+  ],
+  "mintNumber": 1,
+  "collectionLink": "https://img.freepik.com/free-photo/fearless-chinese-warrior-stood-tall-adorned-heavy-armor-ready-battle-generative-ai_8829-2917.jpgg",
+  "collectionName": "Warrior",
+  "collectionDescription": "Test ZkNft",
+  "sourceLink": "https://img.freepik.com/free-photo/fearless-chinese-warrior-stood-tall-adorned-heavy-armor-ready-battle-generative-ai_8829-2917.jpg"
+}

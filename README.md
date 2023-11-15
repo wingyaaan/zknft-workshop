@@ -2,6 +2,10 @@
 
 The full documentation can be found [here](https://art.privacypride.com/)
 
+## Guides
+
+https://art.privacypride.com/nft-formatting
+
 ## 🚀 Quick Start
 
 Ensure you have:
@@ -38,7 +42,6 @@ Run a local server on localhost:3000.
 ```bash
 yarn dev
 ```
-
 
 ### 6) Build
 
